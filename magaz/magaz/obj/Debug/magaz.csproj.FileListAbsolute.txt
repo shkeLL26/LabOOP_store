@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\magaz\magaz\bin\Debug\magaz.exe.config
+C:\Users\user\source\repos\magaz\magaz\bin\Debug\magaz.exe
+C:\Users\user\source\repos\magaz\magaz\bin\Debug\magaz.pdb
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.Form1.resources
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.Properties.Resources.resources
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.csproj.GenerateResource.cache
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.exe
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.pdb
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.FormProductDialog.resources
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.FormCart.resources
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.FormLogin.resources
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.FormRegister.resources
+C:\Users\user\source\repos\magaz\magaz\obj\Debug\magaz.FormSBP.resources
